@@ -1,0 +1,2 @@
+# exercicios
+Trabalho de Bash
