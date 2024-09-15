@@ -8,6 +8,7 @@
 - Exercicio 5: users.sh
 - Exercicio 6: shells.sh
 - Exercicio 7: parametros.sh
+---
 ### relacao.sh
 - Comando:
     ```bash
@@ -19,6 +20,7 @@
     $ ./relacao.sh 5 3
     5 é maior que 3
     ```
+---
 ### zerador.h
 - Comando:
     ```bash
@@ -30,6 +32,7 @@
     Digite um valor: 5
     Contando: 5 4 3 2 1 0
     ```
+---
 ### substring.sh
 - Comando:
     ```bash
@@ -47,7 +50,6 @@
     ```
 
 ---
-
 ### juntatudo.sh
 - Comando:
     ```bash
@@ -60,7 +62,6 @@
     ```
 
 ---
-
 ### users.sh
 - Comando:
     ```bash
@@ -75,7 +76,7 @@
     sys     sys
     ```
 
-
+---
 ### shells.sh
 - Comando:
     ```bash
@@ -89,7 +90,7 @@
     /bin/sh
     ```
 
-
+---
 ### parametros.sh
 - Comando:
     ```bash
@@ -103,5 +104,7 @@
     Parâmetro 3: c
     Parâmetro 4: d
     ```
+---
+    - Aluno : Pedro Haro
 
 
