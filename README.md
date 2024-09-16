@@ -46,7 +46,6 @@
 
     ```bash
     $ ./substring.sh foo bar
-    # Nenhuma saída, pois 'foo' não está em 'bar'
     ```
 
 ---
